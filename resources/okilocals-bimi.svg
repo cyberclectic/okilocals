@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 512 512">
+<title>OKI Locals</title>
+<circle cx="256" cy="256" r="248" fill="#073B43"/><circle cx="256" cy="256" r="228" fill="#10A7A2"/><circle cx="357" cy="139" r="47" fill="#F6B84A"/>
+<path d="M75 282c45-31 89-37 130-18 37 17 70 16 104-2 42-22 85-18 128 9v71H75z" fill="#087D83"/><path d="M75 317c45-25 88-29 128-12 40 17 74 16 110-2 42-21 82-19 124 3v42H75z" fill="#075B67"/>
+<path d="M249 264c-5 24-9 47-12 70-2 14-4 27-7 38h22c2-17 5-32 8-46 4-20 8-39 14-58z" fill="#F6B84A"/>
+<path d="M253 239c-37-7-68-25-91-55 33 7 61 20 86 43-14-31-18-60-9-87 19 21 29 46 30 77 10-38 28-64 56-80-5 33-19 60-44 83 34-17 64-22 92-14-23 21-50 33-84 34 31 6 57 19 76 43-32-3-59-15-83-37 15 31 20 59 13 88-20-20-34-46-38-78-7 34-22 60-50 78 4-33 17-60 39-84-32 17-61 24-90 19 21-23 47-38 80-44z" fill="#F4E4BD"/>
+<path d="M254 239c-4-22-9-41-16-57m23 59c16-18 30-33 45-45m-51 44c-22-3-41-4-59-2m73 10c21 4 39 10 55 20m-61-18c-3 22-4 40-1 59" fill="none" stroke="#D8C79D" stroke-width="4" stroke-linecap="round"/>
+<path d="M78 354c45-19 85-21 121-7 37 14 71 14 106-2 42-18 83-16 129 5v31H78z" fill="#F4E4BD"/><path d="M78 370c43-14 82-13 117 2 38 16 74 15 109 0 43-17 86-17 130 1v18H78z" fill="#F6B84A"/>
+<g transform="translate(5 0)" fill="none" stroke="#073B43" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"><path d="M203 399h22v28h-22zM239 399v28m0-14 20-14m-20 14 20 14M278 399h20m-10 0v28m-10 0h20"/></g>
+<g transform="translate(16 0)" fill="none" stroke="#073B43" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter"><path d="M181 439v18h12M202 439h12v18h-12zM235 440h-12v16h12M243 457l6-18 6 18m-9-6h6M264 439v18h12M298 440h-12v7h12v9h-12"/></g>
+<circle cx="256" cy="256" r="228" fill="none" stroke="#F4E4BD" stroke-width="8"/>
+</svg>
